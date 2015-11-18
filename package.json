@@ -1,0 +1,27 @@
+{
+  "name": "math-flip",
+  "version": "1.0.0",
+  "description": "an app that displays course materials and homeworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SuzieQQQ/mathflip.git"
+  },
+  "author": "Susan Qu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuzieQQQ/mathflip/issues"
+  },
+  "homepage": "https://github.com/SuzieQQQ/mathflip#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-open": "^1.0.0",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}

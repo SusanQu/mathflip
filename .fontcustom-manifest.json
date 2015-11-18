@@ -1,0 +1,63 @@
+{
+  "checksum": {
+    "previous": "f2554bb24c2ba486bcd3fdf6a681cc9f98aa333ac74c8eb79ebc7f9bcd55d09a",
+    "current": "f2554bb24c2ba486bcd3fdf6a681cc9f98aa333ac74c8eb79ebc7f9bcd55d09a"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_f2554bb24c2ba486bcd3fdf6a681cc9f.ttf",
+    "fontcustom/fontcustom_f2554bb24c2ba486bcd3fdf6a681cc9f.svg",
+    "fontcustom/fontcustom_f2554bb24c2ba486bcd3fdf6a681cc9f.woff",
+    "fontcustom/fontcustom_f2554bb24c2ba486bcd3fdf6a681cc9f.eot"
+  ],
+  "glyphs": {
+    "close": {
+      "codepoint": 61700,
+      "source": "icons/close.svg"
+    },
+    "info": {
+      "codepoint": 61697,
+      "source": "icons/info.svg"
+    },
+    "infoHallow": {
+      "codepoint": 61701,
+      "source": "icons/infoHallow.svg"
+    },
+    "location": {
+      "codepoint": 61702,
+      "source": "icons/location.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": "icons/",
+      "vectors": "icons/"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "skip_first": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}
